@@ -12,3 +12,17 @@ Changes
 -Changed the 7 day trend graphing to increase granularity at the expense of a smooth (but sort of informationally-dumb) graph.
 Fixes
 -Cleaned out an old debugging message that would crop up when the user tried to access gauge data while out of WiFi or cellular service
+
+20250504 - v 1.2.1
+
+Changes
+-None
+Fixes
+-Corrected an issue where the flow information stopped updating in the foreground.
+
+20250521 - v 1.3
+
+Changes
+-Added the ability to delete individual gauge listings on the 'Recently Viewed' drop down menu.
+Fixes
+-Removed some old debugging code.
