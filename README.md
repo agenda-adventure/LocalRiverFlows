@@ -30,7 +30,9 @@ Fixes
 20260222 - v 1.6.1
 Changes
 -None
+
 Fixes
--Thanks to a user for pointing out a bug where removing the default gauge would not be permanent across restarts of the app.  
+-Thanks to a user for pointing out a bug where removing the default gauge would not be permanent across restarts of the app. 
+
 Future
 -Version 2.0 will sport some nice iOS 26 interface elements and feature suggestions/improvements are always welcome!
